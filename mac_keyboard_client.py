@@ -108,4 +108,4 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"Program error: {e}")
             print("Restarting program...")
-            time.sleep(3)
+            time.sleep(3)ssfhlasfsafjsajfasfasfshfskafhsafsafhsafhasfklhsfadjkhf
